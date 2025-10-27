@@ -50,6 +50,7 @@ go mod download
 open http://localhost:8080
 ```
 
+
 ## Vulnerability Catalog
 
 ### SAST Vulnerabilities
